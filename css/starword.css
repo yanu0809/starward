@@ -1,0 +1,33 @@
+.malos{
+     background-color: red;
+}
+.buenos{
+    background-color: blue;
+}
+
+#aumentar{
+    font-size: xx-large;
+}
+#cambiar{
+     font-family: italic;
+}
+.tropas{
+    border: 2px solid brown;
+    letter-spacing: 7px;
+}
+.apoyo{
+    text-align:center;
+}
+.nave{
+    text-transform: uppercase;
+}
+
+.droi{
+    margin-left: 400px;
+}
+body{
+    background-image: url(https://png.pngtree.com/background/20210714/original/pngtree-cosmic-star-wars-background-material-picture-image_1210394.jpg);
+
+  height: 100%;
+  width: 100%;
+}
